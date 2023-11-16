@@ -45,7 +45,7 @@ namespace Tyuiu.AramaAG.Sprint5.Task2.V4
             {
                 for (int j = 0; j < columns; j++)
                 {
-                    Console.Write($"{mtrx[i, j]}");
+                    Console.Write($"{mtrx[i, j]} \t");
                 }
                 Console.WriteLine();
             }
